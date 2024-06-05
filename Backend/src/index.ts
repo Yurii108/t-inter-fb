@@ -5,6 +5,8 @@ import dotenv from 'dotenv';
 
 dotenv.config();
 
+const a = 4; //For checking eslint
+
 const app = express();
 const port = 5000;
 
